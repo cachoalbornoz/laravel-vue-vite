@@ -1,5 +1,5 @@
 <template>
-    <h1>Laravel 9 + VueJs 3</h1>
+    <router-view></router-view>
 </template>
 
 <script setup>
